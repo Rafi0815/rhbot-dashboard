@@ -1,0 +1,13 @@
+{
+ "realized_pnl_usd": 340.14,
+ "unrealized_pnl_usd": 209.14,
+ "equity_usd": 1549.28,
+ "budget_usd": 1000.0,
+ "open_positions": 13,
+ "closed_trades": 98,
+ "win_rate": 0.316,
+ "decisions_total": 1702,
+ "decisions_today": 169,
+ "last_activity_ts": 1792868912.2545707,
+ "mode": "paper"
+}
